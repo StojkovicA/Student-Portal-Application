@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pmfmoodle",
+  "private_key_id": "bce2fd34f51f1d7a863793657d63b4735dff34c3",
+  "private_key": "REDACTED",
+  "client_email": "firebase-adminsdk-jeah7@pmfmoodle.iam.gserviceaccount.com",
+  "client_id": "101116768488843786301",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-jeah7%40pmfmoodle.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
